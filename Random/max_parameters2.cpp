@@ -21,7 +21,7 @@ int main()
     cout << " Now let's try 256" <<endl;
 
     array<int,256> arr256;
-    for (int i=0 ; i<200 ; i++)
+    for (int i=0 ; i<256 ; i++)
     {
         arr256[i] = i+1;
     }
