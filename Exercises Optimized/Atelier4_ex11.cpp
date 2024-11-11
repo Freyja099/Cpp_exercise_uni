@@ -117,4 +117,5 @@ int main ()
     cout << "La moyenne est : " << moyenne(t) << endl;
     cout << "La mediane est : " << median(t) << endl;
 
+    return 0;
 }
